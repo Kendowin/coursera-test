@@ -1,2 +1,2 @@
-# coursera-test
-This is a Coursera test repository for the Introduction to HTML5 course through John Hopkins University.
+# Kendowin/Arodin/Sean
+This is the grand repository for all of my learning materials (well...most of them) to date. Please feel free to copy, steal, etc.!
